@@ -1,0 +1,31 @@
+@import url("./cabecalho.css");
+@import url("./conteudo.css");
+@import url("./break-point-630px.css");
+
+*{
+    margin: 100;
+    padding: 100;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 60%;
+}
+
+main{
+    height: 80vh;
+}
+
+footer a {
+    width: 30%;
+    height: 30%;
+  
+}
+
+position: absolute;{
+    left: 90px; /* posiciona a 90px para a esquerda */
+    top: 70px; /* posiciona a 70px para baixo */
+}
+
+ 
+
