@@ -12,20 +12,17 @@ html{
     font-size: 60%;
 }
 
-main{
-    height: 80vh;
-}
-
 footer a {
     width: 30%;
     height: 30%;
-  
 }
 
-position: absolute;{
-    left: 90px; /* posiciona a 90px para a esquerda */
-    top: 70px; /* posiciona a 70px para baixo */
-}
-
- 
-
+footer {
+    background-color: #333;
+    color: white;
+    padding: 5px;
+    font-size: 10px;
+    font-weight: bold;
+    bottom: 0;
+    width: 100%;
+  }
