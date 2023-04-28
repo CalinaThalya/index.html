@@ -15,7 +15,7 @@
 
 .cabecalho nav{
     display: flex;
-    width: 60%;
+    width: 80%;
     height: 100%;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -23,7 +23,7 @@
 
 .cabecalho a{
     text-decoration: none;
-    color: #fff;
+    color: black;
     font-size: 2em;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 700;
@@ -32,5 +32,5 @@
 
 .cabecalho a:hover{
     color: black;
-    background-color: #fff;
+    background-color: powderblue;
 }
