@@ -1,19 +1,19 @@
-
-
 .conteudo{
   display: flex;
   flex-wrap: wrap;
   max-width: 800px;
   margin: 5 auto;
-  font-size: 15px;
+  font-size: 18px;
 }
 .conteudo > div img{
   max-width: 50%;
   display: block;
+  width: 30%;
+  max-width: 30%;
 }
 
 .conteudo > div{
   flex-grow: 1;
   flex-shrink: 1;
-  flex-basis: 300px; 
+  flex-basis: 500px; 
 }
