@@ -4,10 +4,11 @@
   display: flex;
   flex-wrap: wrap;
   max-width: 800px;
-  margin: 0 auto;
+  margin: 5 auto;
+  font-size: 15px;
 }
 .conteudo > div img{
-  max-width: 100%;
+  max-width: 50%;
   display: block;
 }
 
